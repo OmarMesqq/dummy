@@ -36,4 +36,4 @@ tomaria mais tempo do projeto.
 
 
 
-A prova de conceito está nos [Releases](localhost)
+A prova de conceito está nos [Releases](https://github.com/OmarMesqq/dummy-hysys/releases/tag/1.0).
